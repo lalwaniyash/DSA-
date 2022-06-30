@@ -3,7 +3,7 @@
 using namespace std; 
 
  // } Driver Code Ends
-class Solution{   
+class Solution{
 public:
     long maximumSumSubarray(int K, vector<int> &Arr , int N){
         long sum = 0,maximum = INT_MIN;
